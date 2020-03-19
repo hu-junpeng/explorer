@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\浏览器\浏览器\bin\Debug\浏览器.exe.config
+C:\Users\Administrator\source\repos\浏览器\浏览器\bin\Debug\浏览器.exe
+C:\Users\Administrator\source\repos\浏览器\浏览器\bin\Debug\浏览器.pdb
+C:\Users\Administrator\source\repos\浏览器\浏览器\obj\Debug\浏览器.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\浏览器\浏览器\obj\Debug\浏览器.Form1.resources
+C:\Users\Administrator\source\repos\浏览器\浏览器\obj\Debug\浏览器.Properties.Resources.resources
+C:\Users\Administrator\source\repos\浏览器\浏览器\obj\Debug\浏览器.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\浏览器\浏览器\obj\Debug\浏览器.exe
+C:\Users\Administrator\source\repos\浏览器\浏览器\obj\Debug\浏览器.pdb
